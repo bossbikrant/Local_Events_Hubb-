@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/63849e7a-34cf-4a44-9955-3653fb00e2c3)# Local Events Hub - Tech & Startup Theme
+# Local Events Hub - Tech & Startup Theme
 
 A cross-platform mobile application for discovering and connecting with local tech events, hackathons, and startup meetups.
 
