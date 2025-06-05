@@ -1,4 +1,4 @@
-# Local Events Hub - Tech & Startup Theme
+![image](https://github.com/user-attachments/assets/63849e7a-34cf-4a44-9955-3653fb00e2c3)# Local Events Hub - Tech & Startup Theme
 
 A cross-platform mobile application for discovering and connecting with local tech events, hackathons, and startup meetups.
 
@@ -194,22 +194,22 @@ CREATE TABLE rsvps (
 
 ## 👥 Team Roles and Contributions
 
-### Team Member 1: Frontend Developer
+### Team Member 1 (Pramish Lohani): Frontend Developer
 - **Responsibilities**: UI/UX implementation, React Native components, state management
 - **Key Contributions**: Login/Registration screens, Event listing and details, Profile management
 - **Technologies**: React Native, TypeScript, Tailwind CSS
 
-### Team Member 2: Backend Developer
+### Team Member 2 (James Nepal): Backend Developer
 - **Responsibilities**: API development, database design, authentication system
 - **Key Contributions**: RESTful API endpoints, JWT authentication, database schema
 - **Technologies**: Node.js, Express.js, MySQL, JWT
 
-### Team Member 3: Full-Stack Developer
+### Team Member 3 (Dibesh Shrestha) : Full-Stack Developer
 - **Responsibilities**: Integration, real-time features, deployment
 - **Key Contributions**: WebSocket implementation, API integration, app deployment
 - **Technologies**: Socket.io, Firebase, Vercel/Heroku
 
-### Team Member 4: QA & DevOps
+### Team Member 4 (Bikrant Lama) : QA & DevOps
 - **Responsibilities**: Testing, CI/CD, documentation, project management
 - **Key Contributions**: Unit testing setup, automated deployment pipeline, comprehensive documentation
 - **Technologies**: Jest, GitHub Actions, Docker, AWS/Vercel
